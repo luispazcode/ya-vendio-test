@@ -27,6 +27,25 @@ Crear una aplicación de chat en tiempo real utilizando TypeScript, React, custo
 
 ## Implementación
 
+1. Clonar el repositorio
+2. Instalar depedencias para frontend y backend
+
+```bash
+npm install
+```
+
+3. Ejecutar el servidor de desarrollo (backend)
+
+```bash
+npm run start
+```
+
+4. Ejecutar el servidor de desarrollo (frontend)
+
+```bash
+npm run dev
+```
+
 ## Version
 
 - Node version 18.17.0
